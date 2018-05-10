@@ -11,3 +11,33 @@
   background-color:#4aaaa5;
   font-family: 'Times New Roman', Times, serif;
 }
+.foot {
+  background-color:#4aaaa5;
+}
+.copyr {
+ background-color: #666666;
+}
+.nav {
+  background-color: #ffffff;
+}
+.bigBar{
+  border: 1px solid #cccccc;
+  width: 100%;
+}
+.bodi {
+  background-color: #dddddd;
+}
+.white {
+  background-color: #ffffff;
+}
+.thumbnail {
+  position: relative;
+}
+.caption {
+  position: absolute;
+  top: 78%;
+}
+.capBar {
+  background-color: #4aaaa5;
+  width: 45%;
+}
