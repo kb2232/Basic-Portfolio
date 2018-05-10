@@ -1,0 +1,13 @@
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.navbar-brand {
+  background-color:#4aaaa5;
+  font-family: 'Times New Roman', Times, serif;
+}
