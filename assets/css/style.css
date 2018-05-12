@@ -42,14 +42,23 @@
 .thumbnail {
   position: relative;
 }
-.caption {
+.caption1 {
   position: absolute;
-  top: 78%;
-}
-.capBar {
   background-color: #4aaaa5;
+  top: 150px;
   width: 45%;
+}
+.caption2 {
+  position: absolute;
+  background-color: #4aaaa5;
+  top: 150px;
+  width: 45%;
+  right: 400px;
 }
 .teal {
   color: #4aaaa5;
+}
+.box{
+  position: absolute;
+  right: 400px;
 }
