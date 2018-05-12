@@ -44,3 +44,6 @@
 .teal {
   color: #4aaaa5;
 }
+a:hover {
+  background-color: red;
+}
