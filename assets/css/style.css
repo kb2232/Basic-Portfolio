@@ -62,3 +62,10 @@
   position: absolute;
   right: 400px;
 }
+footer {
+  margin: 150px 0px 0px 0px;
+}
+.setbodymargin {
+  margin: 100px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
+}
