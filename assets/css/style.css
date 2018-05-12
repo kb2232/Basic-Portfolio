@@ -3,6 +3,7 @@
 }
 .left {
   text-align: left;
+  float: left;
 }
 .right {
   text-align: right;
@@ -17,12 +18,20 @@
 .copyr {
  background-color: #666666;
 }
-.nav {
+.topnav {
+  overflow: hidden;
   background-color: #ffffff;
+}
+.topnav:hover {
+  background-color: red;
+}
+.nav {
+  padding: 10px;
 }
 .bigBar{
   border: 1px solid #cccccc;
   width: 100%;
+  padding: 25px;
 }
 .bodi {
   background-color: #dddddd;
@@ -43,7 +52,4 @@
 }
 .teal {
   color: #4aaaa5;
-}
-a:hover {
-  background-color: red;
 }
