@@ -43,24 +43,24 @@
   position: relative;
 }
 .caption1 {
-  position: absolute;
+  position: relative;
   background-color: #4aaaa5;
-  top: 150px;
+  top: -50px;
   width: 45%;
 }
 .caption2 {
-  position: absolute;
+  position: relative;
   background-color: #4aaaa5;
-  top: 150px;
+  top: -50px;
   width: 45%;
-  right: 400px;
+  right: 150px;
 }
 .teal {
   color: #4aaaa5;
 }
 .box{
-  position: absolute;
-  right: 400px;
+  position: relative;
+  right: 150px;
 }
 footer {
   margin: 150px 0px 0px 0px;
