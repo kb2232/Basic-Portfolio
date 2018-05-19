@@ -66,6 +66,6 @@ footer {
   margin: 150px 0px 0px 0px;
 }
 .setbodymargin {
+  border: 1px solid black;
   margin: 100px 0px 0px 0px;
-  padding: 20px 0px 0px 0px;
 }
